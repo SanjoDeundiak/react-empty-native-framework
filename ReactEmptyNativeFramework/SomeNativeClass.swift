@@ -9,7 +9,7 @@
 import Foundation
 
 @objc(RENSomeNativeClass) public class SomeNativeClass: NSObject {
-  @objc public func someMethod(string: String) -> String {
+  @objc public func someMethod(data: Data) -> String {
     return "SOME METHOD RESULT"
   }
 }
