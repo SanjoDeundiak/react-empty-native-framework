@@ -10,6 +10,10 @@ import Foundation
 
 @objc(RENSomeNativeClass) public class SomeNativeClass: NSObject {
   @objc public func someMethod(data: Data) -> String {
-    return "SOME METHOD RESULT"
+    return "SOME DATA METHOD RESULT"
   }
+    
+    @objc public func someMethod(string: String) -> String {
+        return "SOME STRING METHOD RESULT"
+    }
 }
