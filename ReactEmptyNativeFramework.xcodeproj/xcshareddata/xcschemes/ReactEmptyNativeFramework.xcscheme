@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "421C31EA23196A9F009791D5"
+               BlueprintIdentifier = "421C31FC23196BD5009791D5"
                BuildableName = "ReactEmptyNativeFramework.framework"
                BlueprintName = "ReactEmptyNativeFramework"
                ReferencedContainer = "container:ReactEmptyNativeFramework.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "421C31EA23196A9F009791D5"
+            BlueprintIdentifier = "421C31FC23196BD5009791D5"
             BuildableName = "ReactEmptyNativeFramework.framework"
             BlueprintName = "ReactEmptyNativeFramework"
             ReferencedContainer = "container:ReactEmptyNativeFramework.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "421C31EA23196A9F009791D5"
+            BlueprintIdentifier = "421C31FC23196BD5009791D5"
             BuildableName = "ReactEmptyNativeFramework.framework"
             BlueprintName = "ReactEmptyNativeFramework"
             ReferencedContainer = "container:ReactEmptyNativeFramework.xcodeproj">

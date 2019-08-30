@@ -6,7 +6,7 @@
 //  Copyright © 2019 Oleksandr Deundiak. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
+#import <UIKit/UIKit.h>
 
 //! Project version number for ReactEmptyNativeFramework.
 FOUNDATION_EXPORT double ReactEmptyNativeFrameworkVersionNumber;
